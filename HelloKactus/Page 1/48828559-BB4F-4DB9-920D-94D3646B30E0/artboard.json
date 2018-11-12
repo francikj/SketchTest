@@ -1,7 +1,14 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
-  "do_objectID": "08cd33f0-d3d9-11e8-87c6-97c03619b9ab",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "48828559-BB4F-4DB9-920D-94D3646B30E0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,51 +21,63 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 337,
+    "width": 318,
+    "x": 404,
+    "y": 161
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "204C067F-CD99-4FCA-8BAC-14FF36E0ED7E"
+      "class": "symbolInstance",
+      "id": "68115626-4DF1-4DAF-88E5-F294182B4F94"
     },
     {
-      "class": "artboard",
-      "id": "48828559-BB4F-4DB9-920D-94D3646B30E0"
+      "class": "symbolInstance",
+      "id": "BE6103DE-5678-46FF-B408-EE525610E0B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D1F0151-2F2E-4BED-8562-CF9084AB594F"
+    },
+    {
+      "class": "text",
+      "id": "73712523-31CC-4B80-A89E-E4CCCB249130"
     }
   ],
-  "name": "Page 1",
+  "name": "Artboard 2",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
