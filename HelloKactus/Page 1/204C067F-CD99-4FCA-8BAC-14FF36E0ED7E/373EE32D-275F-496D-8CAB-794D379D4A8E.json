@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 49,
         "location": 0
       }
     ],
-    "string": "Hello Kactus!"
+    "string": "Hello Kactus!\nHello….is it me you’re looking for?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 58,
+    "height": 119,
     "width": 237,
     "x": 36,
-    "y": 245
+    "y": 194
   },
-  "glyphBounds": "{{41, 4}, {156, 22}}",
+  "glyphBounds": "{{7, 7}, {222, 97}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Hello Kactus!",
+  "name": "Hello Kactus! Hello…",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
